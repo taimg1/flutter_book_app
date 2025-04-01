@@ -1,3 +1,3 @@
-# lab_6
+# Book App
 
-A new Flutter project.
+Book app
